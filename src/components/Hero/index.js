@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
-import Video from '../../images/hero_video.webm';
+import Video from '../../images/hero_video (1).webm';
 import Logo from '../../images/seed_logo.png';
 import {
 	HeroContainer,
